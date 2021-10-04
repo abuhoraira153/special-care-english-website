@@ -3,6 +3,8 @@
 This project was bootstrapped with [My Website Link](https://special-care-english.netlify.app/).
 <ul>
     <li>This website is about learning English.</li>
+    <li>This site helps us to improve English.</li>
+    <li>Also helps to get a good job.</li>
 </ul>
 
 ## Available Scripts
