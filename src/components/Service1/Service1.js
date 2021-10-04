@@ -3,7 +3,6 @@ import { Card, Col } from 'react-bootstrap';
 import './Service1.css'
 const Service1 = (props) => {
     const {name, price, img} = props.service;
-    // console.log(props.service)
     return (
         <div>
             <Col>
