@@ -1,6 +1,9 @@
 # special-care-for-english
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [My Website Link](https://special-care-english.netlify.app/).
+<ul>
+    <li>This website is about learning English.</li>
+</ul>
 
 ## Available Scripts
 
