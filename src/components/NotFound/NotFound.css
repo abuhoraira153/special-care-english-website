@@ -1,0 +1,15 @@
+.not-found{
+    background-color: lightblue;
+    width: 900px;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+.not-found h1{
+    color: red;
+    font-size: 70px;
+}
+.not-found h2{
+    color: #000;
+    font-size: 60px;
+}
