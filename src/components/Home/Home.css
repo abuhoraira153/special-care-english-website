@@ -1,0 +1,11 @@
+.educare{
+    background-color: #082032;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 10px;
+    width: 900px;
+    color: #F3EFCC;
+}
+.educare h1{
+    font-weight: bold;
+}

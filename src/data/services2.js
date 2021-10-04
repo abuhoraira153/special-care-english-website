@@ -26,13 +26,13 @@ const services2 = [
     {
         key : 1005,
         name : 'Learn English for freelanching',
-        price : 35,
+        price : 38,
         img : 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmEk0vbP0Frl0m_GaXH8P5eStm2tP4ic9EzQ&usqp=CAU'
     },
     {
         key : 1006,
         name : 'English for study in abroad',
-        price : 35,
+        price : 32,
         img : 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu-F7LJZ-tFhOV1_yYvdpH80CO80XHZaAaAA&usqp=CAU'
     },
     {
